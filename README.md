@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://twitter.com/purnasn" target="blank"><img src="https://img.shields.io/twitter/follow/purnasn?logo=twitter&style=for-the-badge" alt="purnasn" /></a> </p>
 -->
 
-- 📝 I regularly write articles on [devlog.purnasatria.dev and medium.com/@purnasatria](devlog.purnasatria.dev and medium.com/@purnasatria)
+- 📝 I regularly write articles on [devlog.purnasatria.dev](devlog.purnasatria.dev) and [medium.com/@purnasatria](medium.com/@purnasatria)
 
 - 📄 Know about my experiences [https://bit.ly/Resume-PurnaSatriaNugraha](https://bit.ly/Resume-PurnaSatriaNugraha)
 
-<h3 align="left">Blog posts</h3>
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Implementing SCD Type 2 in BigQuery](https://towardsdev.com/implementing-scd-type-2-in-bigquery-3b243865ab3b?source=rss-1bb3fa7abb99------2)
 - [Parallel Reading from RDBMS and Ingesting into BigQuery using Apache Beam and Dataflow](https://towardsdev.com/parallel-reading-from-jdbc-and-ingesting-into-bigquery-using-apache-beam-and-dataflow-8b9fda4ce782?source=rss-1bb3fa7abb99------2)
