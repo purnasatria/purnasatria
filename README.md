@@ -11,11 +11,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go Slice Behavior](https://purnasatria.medium.com/understanding-go-slice-behavior-copy-vs-reference-03155083ad48?source=rss-1bb3fa7abb99------2)
 - [Implementing SCD Type 2 in BigQuery](https://towardsdev.com/implementing-scd-type-2-in-bigquery-3b243865ab3b?source=rss-1bb3fa7abb99------2)
 - [Parallel Reading from RDBMS and Ingesting into BigQuery using Apache Beam and Dataflow](https://towardsdev.com/parallel-reading-from-jdbc-and-ingesting-into-bigquery-using-apache-beam-and-dataflow-8b9fda4ce782?source=rss-1bb3fa7abb99------2)
 - [Installing Checkpoint VPN Client on Ubuntu 22.04](https://purnasatria.medium.com/installing-checkpoint-vpn-client-on-ubuntu-22-04-90bbd53b1383?source=rss-1bb3fa7abb99------2)
 - [Medium Content-Type](https://purnasatria.medium.com/medium-content-type-cce8b8bdd0bb?source=rss-1bb3fa7abb99------2)
-- [Mindsets of Self-learner](https://byrslf.co/mindsets-of-self-learner-de58da5286de?source=rss-1bb3fa7abb99------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
